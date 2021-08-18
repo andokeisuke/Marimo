@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603253578240",
+    "project_id": "marimo-9e8da",
+    "storage_bucket": "marimo-9e8da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603253578240:android:6b287c439d6839776916e5",
+        "android_client_info": {
+          "package_name": "com.example.marimo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603253578240-p201l3oiil1t34iv3bm3e6ma197g1m5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGExMWQz6qafHcbvdXXLr8Oh4tb6LD4dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603253578240-p201l3oiil1t34iv3bm3e6ma197g1m5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
